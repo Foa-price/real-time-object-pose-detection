@@ -1,0 +1,9 @@
+# Modèles téléchargés automatiquement
+*.task
+*.tflite
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
